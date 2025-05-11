@@ -19,3 +19,7 @@ A basic Android app made with Kotlin that lets you count up by tapping a button.
 
 - `MainActivity.kt`: Handles the button logic and counter
 - `activity_main.xml`: Sets up the layout with a counter display and buttons
+
+## Gif
+
+https://github.com/smac330/SimpleCounter/commit/b0ecec2f26754e2b4ac8570b8177ce39745b03c9
